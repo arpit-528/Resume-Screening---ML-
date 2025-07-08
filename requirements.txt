@@ -1,0 +1,9 @@
+flask
+joblib
+scikit-learn
+pandas
+numpy
+PyMuPDF
+werkzeug
+matplotlib
+seaborn
