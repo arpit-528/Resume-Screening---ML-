@@ -9,8 +9,11 @@ This project helps recruiters quickly identify the best-fit category (like Data 
 
  ## Features
 ✅ Upload resume in PDF format
+
 🔍 Predicts the most likely job role using a trained ML model
+
 🧠 Built with NLP & TF-IDF vectorization
+
 🌐 Deployed on Render
 
 ## Known Limitation
