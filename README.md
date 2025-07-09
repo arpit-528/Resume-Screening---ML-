@@ -4,7 +4,7 @@ Automatically analyze resumes and predict the most suitable job role using Machi
 This project helps recruiters quickly identify the best-fit category (like Data Science, HR, etc.) for a candidate’s resume — saving time and effort during hiring!
 
 ## Live Demo
-🌐 Live Render App --> 
+🌐 Live Railway App --> web-production-2417.up.railway.app
 
 
  ## Features
@@ -14,7 +14,7 @@ This project helps recruiters quickly identify the best-fit category (like Data 
 
 🧠 Built with NLP & TF-IDF vectorization
 
-🌐 Deployed on Render
+🌐 Deployed on Railway
 
 ## Known Limitation
 If a resume is from a job role not present in the training data, the model will try to assign it to the closest known category.
